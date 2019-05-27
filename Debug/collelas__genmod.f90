@@ -1,0 +1,9 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Fri Feb 24 11:52:09 2017
+        MODULE COLLELAS__genmod
+          INTERFACE 
+            SUBROUTINE COLLELAS(E,DMFP)
+              REAL(KIND=8) :: E
+              REAL(KIND=8) :: DMFP
+            END SUBROUTINE COLLELAS
+          END INTERFACE 
+        END MODULE COLLELAS__genmod

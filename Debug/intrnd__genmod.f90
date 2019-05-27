@@ -1,0 +1,7 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Sat May 14 15:51:00 2016
+        MODULE INTRND__genmod
+          INTERFACE 
+            SUBROUTINE INTRND
+            END SUBROUTINE INTRND
+          END INTERFACE 
+        END MODULE INTRND__genmod
